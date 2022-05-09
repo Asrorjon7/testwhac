@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">testAppwhac</string>
+    <string name="defaultText">0</string>
+    <string name="labelRed">Red</string>
+    <string name="labelGreen">Green</string>
+    <string name="menuClear">Clear</string>
+
+    <string name="str_button_start">Start Game</string>
+    <string name="str_button_scores">High Scores</string>
+    <string name="str_text_title">Whac-A-Mole</string>
+    <string name="str_button_options">Options</string>
+    <string name="str_button_main">Main Menu</string>
+    <string name="str_button_submit">Submit High Score</string>
+    <string name="str_btn_save">Save Changes</string>
+    <string name="str_options">Options</string>
+
+    <string name="str_game_over">Game Over</string>
+    <string name="str_savedmsg">Saved Changes</string>
+    <string name="str_empty_name">Please enter your name!</string>
+
+    <string name="str_your_score">Your Score:</string>
+    <string name="str_name_entry">Enter Name</string>
+    <string name="zero">0</string>
+
+    <string name="str_time_label">Time:</string>
+    <string name="str_score_label">Score:</string>
+
+    <string name="str_end_time">You ran out of time!</string>
+    <string name="str_end_lives">You ran out of lives!</string>
+
+    <string name="str_clear_scores">Clear Scores</string>
+    <string name="str_clear_scores_alert">Are you sure you want clear the scoreboard?</string>
+
+    <string name="str_yes">Yes</string>
+    <string name="str_no">No</string>
+
+    <string name="str_difficulty">Difficulty</string>
+
+    <string name="diff1">Easy</string>
+    <string name="diff2">Medium</string>
+    <string name="diff3">Hard</string>
+
+    <string-array name="difficulties">
+        <item>@string/diff1</item>
+        <item>@string/diff2</item>
+        <item>@string/diff3</item>
+    </string-array>
+
+    <string name="str_clearscore">Scoreboard Cleared</string>
+
+    <string name="default_name">Unknown</string>
+
+</resources>
